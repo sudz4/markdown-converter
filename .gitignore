@@ -1,0 +1,6 @@
+# virtual env
+mc_venv/
+
+# secret shit
+.env
+
